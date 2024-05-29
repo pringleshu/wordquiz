@@ -45,4 +45,8 @@ int main ()
 
 Has 4 menus
 
-## How to execute
+## Next steps:
+A method of asking for hints will be added. 
+The ability to add words will be added.
+The ability to delete words will be added.
+There will be an additional function that will show random questions.
